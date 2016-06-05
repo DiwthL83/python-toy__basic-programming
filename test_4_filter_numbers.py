@@ -1,6 +1,7 @@
 def filter_numbers(arr):
   # Remove the `return None` code below and add your own code.
-  return None
+    arr = list(filter(lambda x: x < 10, arr))
+    return arr
 
 # -----------------------------------------------------------------------------
 

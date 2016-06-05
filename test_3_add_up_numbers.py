@@ -2,7 +2,10 @@
 
 def add_up_numbers(arr):
   # Remove the `return None` code below and add your own code.
-  return None
+  total = 0
+  for z in arr: 
+    total += z
+  return total
 
 # -----------------------------------------------------------------------------
 
