@@ -1,6 +1,6 @@
 def uppercases_all_letters(str):
-  return str.upper
-
+  return str.upper()
+  
 # -----------------------------------------------------------------------------
 
 # These are the automated tests for this exercise. Do not modify them at all.
